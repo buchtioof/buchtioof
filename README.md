@@ -1,1 +1,1 @@
-(https://github.com/buchioof/buchtioof/raw/main/assets/image.png)
+![beautiful](https://github.com/ludeeus/ludeeus/raw/main/assets/404.png)
