@@ -1,1 +1,1 @@
-![beautiful](https://github.com/buchtioof/buchtioof/raw/main/assets/image.jpg)
+![beautiful](https://github.com/buchtioof/buchtioof/raw/main/assets/unnamed.webp)
