@@ -4,7 +4,7 @@ devops student\
 💫 [my website (in french atm)](https://www.ramziidir.dev)\
 \
 sysadmin, developer and ui/ux enjoyer\
-code in React, JS, C, Bash, Python
+code in JS (+React), C/C++, Bash, Python
 
 work with: 
 - macOS (main setup)
