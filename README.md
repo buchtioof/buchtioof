@@ -1,7 +1,7 @@
 ![beautiful](https://github.com/buchtioof/buchtioof/raw/main/assets/unnamed.webp) 
 
 devops engineering (SRE) student, sysadmin, developer and ui/ux enjoyer\
-currently working on [Grabber](https://github.com/buchtioof/grabber), a study project and in internship period as Sysadmin.\
+currently working on [Grabber](https://github.com/buchtioof/grabber), a study project and actually in internship period as Sysadmin.\
 \
 💫 [my website (in french atm)](https://www.ramziidir.dev)\
 \
